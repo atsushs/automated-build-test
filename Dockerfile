@@ -1,2 +1,2 @@
-FROM dockersamples/static-sit
+FROM dockersamples/static-site
 ENV AUTHOR="Atsushi Sugimoto"
